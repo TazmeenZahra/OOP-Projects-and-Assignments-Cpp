@@ -1,24 +1,67 @@
-This folder contains large OOP coursework programs that combine multiple concepts into complete applications.
+# C++ OOP Assignments
 
-Programs included:
+This folder contains large coursework applications developed using Object Oriented Programming in C++.  
+Each program combines multiple OOP concepts into complete working systems.
 
-• Geometry Toolkit  
-Implements Circle and Rectangle classes with area, perimeter, and drawing functionality.
+---
 
-• Time Management System  
-Custom Time class supporting time arithmetic, ticking, and 24-hour formatting.
+## **Geometry Toolkit**
+Implements Circle and Rectangle classes.
+**Features:**
+- Area and perimeter calculations  
+- Rectangle drawing on console  
+- Use of constructors and class design  
 
-• Rational Number Calculator  
-Fraction arithmetic system supporting addition, subtraction, multiplication and division.
+---
 
-• Tic Tac Toe Game  
-Two-player console game implementing class design and game logic.
+## **Time Management System**
+Custom Time class that simulates real clock behaviour.
+**Features:**
+- 24-hour time formatting  
+- Time addition and ticking functionality  
+- Object interaction and testing loops  
 
-• Operator Overloading Toolkit  
-Distance measurement and Polynomial algebra using extensive operator overloading.
+---
 
-• Prayer Time Management System  
-Multi-class system modelling date, time, location and daily prayer schedules.
+## **Rational Number Calculator**
+Fraction arithmetic system using class design.
+**Features:**
+- Addition, subtraction, multiplication, division  
+- Reduced fraction storage  
+- Output in fraction and decimal form  
 
-• Banking Membership System  
-Simulates membership tiers, transactions and rewards using inheritance and polymorphism.
+---
+
+## **Tic Tac Toe Game**
+Two-player console game.
+**Features:**
+- Game board management  
+- Player turns and win/draw detection  
+- Practical class and logic design  
+
+---
+
+## **Operator Overloading Toolkit**
+Distance measurement and Polynomial algebra.
+**Features:**
+- Extensive operator overloading  
+- Arithmetic and comparison operations  
+- Custom data type manipulation  
+
+---
+
+## **Prayer Time Management System**
+Multi-class real-world modelling project.
+**Features:**
+- Date, Time and Location classes  
+- Daily prayer scheduling system  
+- Class relationships and structured design  
+
+---
+
+## **Banking Membership System**
+Simulation of banking membership tiers.
+**Features:**
+- Inheritance and polymorphism  
+- Membership rewards and transactions  
+- Real-world system modelling  
